@@ -1,2 +1,1 @@
-git config --global user.email "gurveshsidhu2007@gmail.com"
-git config --global user.name "Gurvesh Sidhu"
+git remote add origin remote repository https://github.com/sidhugurvesh/practice.git --master (practice)
