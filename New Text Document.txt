@@ -1,2 +1,2 @@
-fs part 
-connect rep to github 
+file system
+and setting server both in node and express
